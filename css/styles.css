@@ -10,7 +10,7 @@ body {
 }
 
 .logo {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -47,7 +47,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434445;
+    color: #434455;
 }
 
 .contacts:hover {
@@ -58,7 +58,7 @@ body {
     color: #404bbf;
 }
 
-.section1 {
+.section-one {
     background: #2E2F42;
 }
 
@@ -107,14 +107,17 @@ body {
 
 .description {
     letter-spacing: 0.02em;
-    color: #434445;
+    color: #434455;
     font-size: 16px;
     letter-spacing: 0.02em;
-    color: #434445;
 }
 
 .section3 {
     background: #F4F4FD;
+}
+
+.img-sect-three {
+    color: #FFFFFF;
 }
 
 .header-sect {
@@ -130,15 +133,17 @@ body {
     background: #FFF;
 }
 
-.sect-4-list-header {
+.sect-four-list-header {
     font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .sekt-4-parag {
     letter-spacing: 0.02em;
-    color: #434445;
+    color: #434455;
 }
 
 .footer {
@@ -146,7 +151,7 @@ body {
 }
 
 .footer-logo {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
