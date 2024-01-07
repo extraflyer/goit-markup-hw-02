@@ -93,7 +93,7 @@ body {
 
 
 
-.section2 {
+.section-two {
     background: #FFF;
 }
 
@@ -112,7 +112,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.section3 {
+.section-three {
     background: #F4F4FD;
 }
 
@@ -129,7 +129,7 @@ body {
     color: #2e2f42;
 }
 
-.section4 {
+.section-four {
     background: #FFF;
 }
 
@@ -141,7 +141,7 @@ body {
     color: #2E2F42;
 }
 
-.sekt-4-parag {
+.sekt-four-parag {
     letter-spacing: 0.02em;
     color: #434455;
 }
