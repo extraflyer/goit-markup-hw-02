@@ -1,0 +1,59 @@
+body {
+    font-family: Roboto;
+    color: black;
+    font-weight: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.h1 {
+    color: var(--WHITE, #FFF);
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 107.143%;
+    letter-spacing: 1.12px;
+}
+
+.h2 {
+    font-weight: Bold;
+    font-size: 36px;
+}
+
+.h3 {
+    font-weight: Medium;
+    font-size: 20px;
+}
+
+.button {
+    font-weight: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    cursor: pointer;
+}
+
+.links {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: Underline;
+}
+
+.section1 {
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+
+.section2 {
+    background: #FFF;
+}
+
+.section3 {
+    background: var(--CLOUD, #F4F4FD);
+}
+
+.section4 {
+    background: #FFF;
+}
