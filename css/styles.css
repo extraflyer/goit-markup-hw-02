@@ -1,12 +1,18 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
     font-weight: "Regular";
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
-    background-color: #FFFFFF;
-    font-family: "Roboto",
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
 }
 
 .logo {
@@ -68,8 +74,8 @@ body {
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 107.143%;
-    letter-spacing: 1.12px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .button {
@@ -91,8 +97,6 @@ body {
     background-color: #404BBF;
 }
 
-
-
 .section-two {
     background: #FFF;
 }
@@ -109,7 +113,6 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
     font-size: 16px;
-    letter-spacing: 0.02em;
 }
 
 .section-three {
